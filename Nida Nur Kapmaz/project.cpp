@@ -4,7 +4,7 @@
 #include <chrono>
 #include <vector>
 using namespace std;
-using namespace std::chrono; //her seferinde uzun yazma diye
+using namespace std::chrono; //her seferinde uzun yazmamak için.
 
 struct node
 {
